@@ -1,1 +1,1 @@
-# Файл Mining_bitcoins.exe - установочный файл для игры. 
+# Файл mining_bitcoins.exe - установочный файл для игры. 
